@@ -34,10 +34,13 @@ def sort_numbers(numbers):
 ## 3. **Interaction with ChatGPT**
 
 ### Questions/Requests to ChatGPT
-Write down the questions or requests you made to ChatGPT. For example:
+Write down the questions or requests you made to ChatGPT. 
+Also include what code from ChatGPT you are unsure of and craft a question that asks for further clarification. 
+ For example:
 
 - "How do I reverse a list in Python?"
 - "Can you suggest a more efficient way to sort a list?"
+- Why did ChatGPT opt for create element when my teacher suggested insertAdjacentHTML?
 
 ```text
 # Example prompt to ChatGPT:
